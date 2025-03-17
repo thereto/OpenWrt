@@ -15,7 +15,7 @@ options ndots:0
 EOF
 
 sh /etc/diymo.sh
-sh /etc/aria2.sh
+# sh /etc/aria2.sh
 
 exit 0">/etc/rc.local
 
