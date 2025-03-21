@@ -10,7 +10,7 @@ echo "# Put your custom commands here that should be executed once
 cat > /etc/resolv.conf <<EOF
 search lan
 nameserver 127.0.0.1
-nameserver 192.168.1.1
+nameserver 192.168.0.1
 options ndots:0
 EOF
 
